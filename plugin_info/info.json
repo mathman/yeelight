@@ -1,0 +1,13 @@
+{
+	"id" : "yeelight",
+	"name" : "yeelight",
+	"description" : "Plugin pour piloter les ampoules xiaomi",
+	"licence" : "AGPL",
+	"author" : "Mathman",
+	"require" : "3.2",
+	"category" : "devicecommunication",
+	"hasDependency" : false,
+	"hasOwnDeamon" : false,
+	"changelog" : "https://jeedom.github.io/plugin-template/#language#/changelog",
+	"documentation" : "https://jeedom.github.io/plugin-template/#language#/"
+}
